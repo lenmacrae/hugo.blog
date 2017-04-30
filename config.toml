@@ -1,0 +1,12 @@
+baseURL = "https://lenmacrae.github.io"
+languageCode = "en-us"
+title = "Len's blog"
+theme = "light-hugo"
+author = "Len MacRae"
+copyright = "© Copyright 2017 Len MacRae"
+
+[Params]
+  description = "Thoughts and Links"
+  email = "lenmacrae@gmail.com"
+  github = "lenmacrae"
+  twitter = "lenmacrae"
